@@ -4,7 +4,7 @@
 
 réalisé en collaboration avec Chloé Dubouchet et 
 encadré par De Gournay Frédéric et Duboscq Romain
-à l'INSA Toulouse
+à l'INSA Toulouse.
 
 Le but de ce projet est de présenter une manière de trouver les équilibres de Nash pour les jeux finis. D'après le Théorème de Nash, nous savons que de tels equilibres mixtes existent, l'objectif est donc de trouver ces stratégies numériquement.
 
