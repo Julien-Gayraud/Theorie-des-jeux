@@ -1,4 +1,6 @@
-# Recherche numérique des équilibres de Nash
+# Théorie des Jeux
+
+## Recherche numérique des équilibres de Nash
 
 réalisé en collaboration avec Chloé Dubouchet et 
 encadré par De Gournay Frédéric et Duboscq Romain
